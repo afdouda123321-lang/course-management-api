@@ -1,0 +1,11 @@
+{
+  "name": "course-management-api",
+  "version": "1.0.0",
+  "description": "Simple REST-like API built with Node.js core modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mahmoud",
+  "license": "ISC"
+}

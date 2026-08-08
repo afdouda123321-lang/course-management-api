@@ -1,0 +1,137 @@
+ [
+  {
+    "id": 1,
+    "title": "Node.js Fundamentals",
+    "instructor": "Mahmoud Ali",
+    "price": 500,
+    "duration": "20 Hours",
+    "category": "Backend",
+    "isPublished": true
+  },
+  {
+    "id": 2,
+    "title": "Express.js",
+    "instructor": "Ahmed Hassan",
+    "price": 700,
+    "duration": "18 Hours",
+    "category": "Backend",
+    "isPublished": true
+  },
+  {
+    "id": 3,
+    "title": "MongoDB",
+    "instructor": "Sara Mohamed",
+    "price": 650,
+    "duration": "15 Hours",
+    "category": "Database",
+    "isPublished": true
+  },
+  {
+    "id": 4,
+    "title": "JavaScript ES6",
+    "instructor": "Omar Khaled",
+    "price": 450,
+    "duration": "12 Hours",
+    "category": "Programming",
+    "isPublished": true
+  },
+  {
+    "id": 5,
+    "title": "TypeScript",
+    "instructor": "Ali Mahmoud",
+    "price": 750,
+    "duration": "16 Hours",
+    "category": "Programming",
+    "isPublished": true
+  },
+  {
+    "id": 6,
+    "title": "React.js",
+    "instructor": "Nour Ahmed",
+    "price": 900,
+    "duration": "22 Hours",
+    "category": "Frontend",
+    "isPublished": true
+  },
+  {
+    "id": 7,
+    "title": "Next.js",
+    "instructor": "Mohamed Adel",
+    "price": 950,
+    "duration": "20 Hours",
+    "category": "Frontend",
+    "isPublished": false
+  },
+  {
+    "id": 8,
+    "title": "HTML & CSS",
+    "instructor": "Fatma Ali",
+    "price": 300,
+    "duration": "10 Hours",
+    "category": "Frontend",
+    "isPublished": true
+  },
+  {
+    "id": 9,
+    "title": "Git & GitHub",
+    "instructor": "Youssef Ibrahim",
+    "price": 350,
+    "duration": "8 Hours",
+    "category": "Tools",
+    "isPublished": true
+  },
+  {
+    "id": 10,
+    "title": "REST API Development",
+    "instructor": "Mahmoud Mostafa",
+    "price": 800,
+    "duration": "18 Hours",
+    "category": "Backend",
+    "isPublished": true
+  },
+  {
+    "id": 11,
+    "title": "Authentication with JWT",
+    "instructor": "Ahmed Samir",
+    "price": 850,
+    "duration": "14 Hours",
+    "category": "Security",
+    "isPublished": false
+  },
+  {
+    "id": 12,
+    "title": "Docker Basics",
+    "instructor": "Hassan Tarek",
+    "price": 1000,
+    "duration": "16 Hours",
+    "category": "DevOps",
+    "isPublished": true
+  },
+  {
+    "id": 13,
+    "title": "Linux for Developers",
+    "instructor": "Khaled Salah",
+    "price": 600,
+    "duration": "13 Hours",
+    "category": "Operating System",
+    "isPublished": true
+  },
+  {
+    "id": 14,
+    "title": "Data Structures",
+    "instructor": "Amr Nabil",
+    "price": 700,
+    "duration": "17 Hours",
+    "category": "Programming",
+    "isPublished": true
+  },
+  {
+    "id": 15,
+    "title": "Algorithms",
+    "instructor": "Mona Ashraf",
+    "price": 800,
+    "duration": "19 Hours",
+    "category": "Programming",
+    "isPublished": false
+  }
+]
